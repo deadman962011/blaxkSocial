@@ -3,7 +3,7 @@
 $blaxkSocialDBuser= 'root';
 $blaxkSocailDBpass= '';
 
-$dsn = 'mysql:host=localhost;dbname=techp0intsup';
+$dsn = 'mysql:host=localhost;dbname=blaxksocialdb';
 	$option = array(
 		PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8',
 	);
